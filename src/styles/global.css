@@ -1,0 +1,16 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    color: var(--black);
+    overflow-x: hidden;
+    font-family: var(--font-family);
+}
+
+body.-disable-scroll {
+    overflow: hidden;
+}
+
+ul {
+    list-style: none;
+}

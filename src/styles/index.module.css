@@ -1,0 +1,21 @@
+/*  Headline  */
+.cityHeadline {
+    text-align: center;
+    margin-bottom: var(--spacing2);
+}
+
+/* Coordeinates Container */
+.coordinatesContainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.description {
+    display: block;
+    text-align: center;
+}
+
+.minAndMaxtemperatureContainer {
+    display: flex;
+    justify-content: space-evenly;
+}

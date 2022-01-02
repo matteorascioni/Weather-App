@@ -1,0 +1,7 @@
+.container {
+    border: none;
+    width: 100%;
+    border-radius: 5px;
+    background-color: var(--light-purple);
+    padding: var(--spacing) var(--spacing);
+}
